@@ -1,0 +1,9 @@
+{
+  "name": "Calistenia 90",
+  "short_name": "Calistenia 90",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080a0d",
+  "theme_color": "#090b0e",
+  "description": "Programa completo de calistenia de 90 dias."
+}
